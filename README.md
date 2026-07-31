@@ -123,6 +123,8 @@ This project analyzes Brazilian e-commerce sales data from 2016–2018 using SQL
 </p>
 
 <br>
+
+
 ---
 # Technical Certifications
 ---
