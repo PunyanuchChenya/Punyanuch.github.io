@@ -109,8 +109,6 @@ This project analyzes Brazilian e-commerce sales data from 2016–2018 using SQL
 - Prepared and validated Brazilian e-commerce data using SQL by checking data quality and consolidating datasets for analysis.
 - Built an interactive dashboard to analyze sales, customers, products, and delivery performance.
 - Developed KPI visualizations and summarized key business insights to support business reporting. <br>
-[![Power Bi](https://img.shields.io/badge/PowerBi-Dasboard-lightpurple?style=flat&logo=adobe-acrobat-reader&logoColor=white)]((https://drive.google.com/file/d/174BOANFPeLoPOc2Qt9N9eP9M6AXik46j/view?usp=sharing))
-
 
 <p align="center">
   <img src="pic/Dashboard1.png" alt="Dashborad1" width="100%">
