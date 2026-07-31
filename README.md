@@ -110,8 +110,9 @@ This project analyzes Brazilian e-commerce sales data from 2016–2018 using SQL
 - Built an interactive dashboard to analyze sales, customers, products, and delivery performance.
 - Developed KPI visualizations and summarized key business insights to support business reporting. <br>
 
-
-
+<p align="center">
+  <img src="dashboard/Dashboard1.png" alt="Dashborad1" width="100%">
+</p>
 ---
 # Technical Certifications
 ---
