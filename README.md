@@ -106,9 +106,9 @@ Cumulative GPA: 3.19/4.00 <br>
 ## Brazilian E-Commerce Sales Analytics Dashboard
 This project analyzes Brazilian e-commerce sales data from 2016–2018 using SQL and Power BI. The dashboard provides interactive insights into sales performance, customer behavior, payment methods, and delivery performance to support business monitoring and decision-making.<br>
 
-- Validated Brazilian e-commerce data using SQL by checking duplicate records, missing values, and data consistency before analysis.
-- Built an interactive dashboard to analyze sales, customers, products, and delivery performance.
-- Developed KPI visualizations and summarized key business insights to support business reporting. <br>
+- Validated Brazilian e-commerce data using SQL by checking duplicate records, missing values, and data consistency before analysis. 
+- Built an interactive Power BI dashboard with a year slicer to visualize sales performance, customer insights, product performance, and delivery metrics. 
+- Developed KPI visualizations and summarized key business insights to support business decision-making.<br>
 
 <p align="center">
   <img src="pic/Dashboard1.png" alt="Dashborad1" width="100%">
