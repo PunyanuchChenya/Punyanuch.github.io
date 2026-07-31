@@ -108,7 +108,7 @@ This project analyzes Brazilian e-commerce sales data from 2016–2018 using SQL
 - Validated Brazilian e-commerce data using SQL by checking duplicate records, missing values, and data consistency before analysis. 
 - Built an interactive Power BI dashboard with a year slicer to visualize sales performance, customer insights, product performance, and delivery metrics. 
 - Developed KPI visualizations and summarized key business insights to support business decision-making.<br>
-[![github](https://img.shields.io/badge/github-project-lightpurple?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/personalproject)<br>
+[![github](https://img.shields.io/badge/github-project-purple?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/PunyanuchChenya/personalproject)<br>
 
 <p align="center">
   <img src="pic/Dashboard1.png" alt="Dashborad1" width="100%">
